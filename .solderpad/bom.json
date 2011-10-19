@@ -1,0 +1,94 @@
+{
+	"items": [
+		{
+			"designator": "JP1",
+			"value": "M10LOCK",
+			"description": "Header 10"
+		},
+		{
+			"designator": "JP2",
+			"value": "M10LOCK",
+			"description": "Header 10"
+		},
+		{
+			"designator": "R1",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R2",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R3",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R4",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R5",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R6",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R7",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "R8",
+			"value": "",
+			"description": "RESISTOR, American symbol"
+		},
+		{
+			"designator": "T1",
+			"value": "",
+			"description": "PNP Transistror"
+		},
+		{
+			"designator": "T2",
+			"value": "",
+			"description": "PNP Transistror"
+		},
+		{
+			"designator": "T3",
+			"value": "",
+			"description": "PNP Transistror"
+		},
+		{
+			"designator": "T4",
+			"value": "",
+			"description": "PNP Transistror"
+		},
+		{
+			"designator": "T5",
+			"value": "",
+			"description": "PNP Transistror"
+		},
+		{
+			"designator": "T6",
+			"value": "",
+			"description": "PNP Transistror"
+		},
+		{
+			"designator": "T7",
+			"value": "",
+			"description": "PNP Transistror"
+		},
+		{
+			"designator": "T8",
+			"value": "",
+			"description": "PNP Transistror"
+		}
+	]
+}
